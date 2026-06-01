@@ -1,0 +1,16 @@
+# sand atelier
+
+> sand atelier is a korean custom lettering sticker studio based in incheon, crafting handmade lettering stickers for birthdays, weddings, corporate events, and fandom celebrations since 2017.
+
+the site is an archive and gallery of past sticker designs, organized by category, with consulting available through kakaotalk.
+
+## pages
+
+- [home](/): browse the full archive of custom lettering stickers, filter by category (birthday, wedding, corporate, fandom, and more), and request consulting.
+
+## contact
+
+- instagram (sand atelier): https://www.instagram.com/sand_atelier_sandwich/
+- instagram (maison de laitue): https://www.instagram.com/maisondelaitue/
+- newsletter: https://laitue.stibee.com/
+- kakaotalk consulting: https://pf.kakao.com/_ZaNaxl/chat
